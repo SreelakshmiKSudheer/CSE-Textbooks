@@ -1,6 +1,6 @@
 # CSE-Textbooks
 ## S3
 ## S4
-  OS
-  DBMS
-  COA
+  6. OS
+  6. DBMS
+  6. COA
